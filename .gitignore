@@ -16,3 +16,6 @@ _pycache_/
 *.swp
 # Системные файлы
 Thumbs.db
+
+# Тестовый файл
+tmp_data.txt
